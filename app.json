@@ -1,0 +1,12 @@
+{
+  "name": "twittiero-app",
+  "displayName": "twittiero-app",
+  "expo": {
+    "name": "twittiero-app",
+    "slug": "twittiero-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
